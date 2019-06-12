@@ -81,7 +81,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _GS: 116508
+    - _GS: 4096
     - _GlossMapScale: 1
     - _Glossiness: 0.387
     - _GlossyReflections: 1
@@ -90,15 +90,15 @@ Material:
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _Screen: 0
-    - _Selector: 2
+    - _Selector: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
-    - _WinnerSelector: 1
+    - _WinnerSelector: 2
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 0.54049945, g: 0.9150943, b: 0.5395603, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _NoiseSelector: {r: 0.04310304, g: 0.40993834, b: 0.7, a: 0}
+    - _NoiseSelector: {r: 0.4917282, g: 0.4354214, b: 0.7, a: 0}
