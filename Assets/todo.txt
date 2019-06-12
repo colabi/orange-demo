@@ -1,0 +1,39 @@
+﻿MUST HAVES
+We would like you to build a version of Tic-tac-toe using Unity. Your application should target at least one AR or VR platform and support two player games as well as one player against a computer controlled player. 
+
+Two player mode is expected to be a non-networked local experience where two players trade off with the same device.
+
+You can use the Unity Asset Store (or any other open source assets)  for 3D models, textures, or environments, but please refrain from using any pre-existing code besides the SDK’s required for your chosen AR or VR platform. 
+
+Please deliver a link to a compiled playable version of the application, as well as a link to the full project assets such as a GitHub/Bitbucket link.
+
+The rules of Tic-Tac-Toe can be found here:
+https://en.wikipedia.org/wiki/Tic-tac-toe
+
+Optional additional challenges:
+Generalize the game of Tic-tac-toe to an m,n,k-game https://en.wikipedia.org/wiki/M,n,k-game 
+Build an intelligent computer controlled player using your choice of AI or machine learning algorithms
+Support networked online play between players
+
+
+
+
+
+
+
+                                    
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
