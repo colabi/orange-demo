@@ -1,6 +1,6 @@
 # orange-demo
 
-TIC TAC TOE in an air projected screen.  Supports 3 modes of play.
+TIC TAC TOE in an air projected screen.  Designed as a simple AR mobile experience.  Supports 3 modes of play.  
 
 
 ## Instructions
@@ -22,5 +22,5 @@ Actor entities (human, computer) acquire Skill objects from a blindly configured
 
 The context (ideally) interacts with objects in the environment through a not at all completely fleshed out IO system (touch input/monitor output).  Even the computer must simulate a touch on the virtual input device.  As such, it is loosely coupled and intentionally open to cheating. 
 
-The AI uses a simple minimax algorithm for the game.  To be better implemented (CPU/RAM) on things like initial move, the decision tree could be baked into a blob that is bit packed.  Wasn't time for this.  But on a device like a mobile you can see a stall on the first move (as it computes the full 500K+ moves).
+The AI uses a simple minimax algorithm for the game.  To be better implemented (CPU/RAM) on things like initial move, the decision tree could be baked into a blob that is bit packed and should fit within 2MB.  Wasn't time for this.  On a device like a mobile you can see a stall on the first move (as it computes the full 500K+ moves).
 
